@@ -5,7 +5,7 @@
 
 ---
 
-_Kiwaï-NL_ groupe qui crée des plugins sans dépendance modkit pour Nova-Life.
+_Kiwaï-NL_ est un groupe de pote qui crée des plugins sans dépendance modkit pour Nova-Life.
 
 ## Meet Our Team
 
