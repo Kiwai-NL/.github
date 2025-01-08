@@ -11,8 +11,8 @@ _Kiwaï-NL_ groupe qui crée des plugins sans dépendance modkit pour Nova-Life.
 
 | Flag | Avatar | Name | Role | Flag | Avatar | Name | Role |
 |---|---|---|---|---|---|---|---|
-| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/Anorix.png" height="75px" alt="Image unavailable"> 
-| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/MillieRobo.png" height="75px" alt="Image unavailable"> 
-| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/tronix.jpg" height="75px" alt="Image unavailable"> 
+| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/Anorix.png" height="75px" alt="Image unavailable"> | **Antoniofo** | *Outside Collaborator* |
+| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/MillieRobo.png" height="75px" alt="Image unavailable"> | **Antoniofo** | *Outside Collaborator* |
+| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/tronix.jpg" height="75px" alt="Image unavailable"> | **Antoniofo** | *Outside Collaborator* |
 
 
