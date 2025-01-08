@@ -1,11 +1,11 @@
-# BelgiansDev
+# Kiwaï-NL
 ---
 
-**"Unity Makes Strength"**
+**"Freedom is our priority"**
 
 ---
 
-_BelgiansDev_ is primarily a French-speaking organization where we create projects for school, fun, or just because we’re bored as hell.
+_Kiwaï-NL_ groupe qui crée des plugins sans dépendance modkit pour Nova-Life.
 
 ## Meet Our Team
 
