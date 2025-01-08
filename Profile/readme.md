@@ -16,3 +16,4 @@ _Kiwaï-NL_ est un groupe de pote qui crée des plugins sans dépendance modkit 
 | 🇫🇷 | <img src="https://github.com/Kiwai-NL/.github/blob/main/Image/shape581.png" height="75px" alt="Image unavailable"> | **Shape581** | *Développer* |
 
 
+©Kiwaï-NL
