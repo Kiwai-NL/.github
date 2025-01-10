@@ -1,19 +1,19 @@
-# Kiwaï-NL
+# Kiwaï-NL  
+
+**_"Freedom is our priority"_**
+
 ---
 
-**"Freedom is our priority"**
+_Kiwaï-NL_ est un groupe d'amis passionnés qui créent des plugins pour Nova-Life, avec ou sans dépendance au Modkit.  
+
+## **Notre Équipe**
+
+| Drapeau | Avatar | Nom | Rôle | Utilise Modkit |
+|---|---|---|---|---|
+| 🇧🇪 | ![Avatar MédiaGaming](https://github.com/Kiwai-NL/.github/blob/main/Image/MediaGaming_1.png) | **MédiaGaming** | *Développeur* | Non |
+| 🇧🇪 | ![Avatar Robocnop](https://github.com/BelgiansDev/.github/blob/main/images/MillieRobo.png) | **Robocnop** | *Développeur* | Oui |
+| 🇫🇷 | ![Avatar Shape581](https://github.com/Kiwai-NL/.github/blob/main/Image/shape581.png) | **Shape581** | *Développeur* | Non |
 
 ---
 
-_Kiwaï-NL_ est un groupe de pote qui crée des plugins sans et avec dépendance modkit pour Nova-Life.
-
-## Meet Our Team
-
-| Flag | Avatar | Name | Role | Modkit |
-|---|---|---|---|
-| 🇧🇪 | <img src="https://github.com/Kiwai-NL/.github/blob/main/Image/MediaGaming_1.png" height="75px" alt="Image unavailable"> | **MédiaGaming** | *Développer* | Non
-| 🇧🇪 | <img src="https://github.com/BelgiansDev/.github/blob/main/images/MillieRobo.png" height="75px" alt="Image unavailable"> | **Robocnop** | *Développer* | Oui
-| 🇫🇷 | <img src="https://github.com/Kiwai-NL/.github/blob/main/Image/shape581.png" height="75px" alt="Image unavailable"> | **Shape581** | *Développer* | Non
-
-
-©Kiwaï-NL
+© Kiwaï-NL  
